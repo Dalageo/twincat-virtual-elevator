@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="https://github.com/Dalageo/TwinCat3---Elevator/assets/153513781/339d52dc-891d-46d0-b382-10ab86160760" alt="Bechoff TwinCat" width="700"/>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.beckhoff.com/en-en/products/automation/twincat/" target="_blank">
     <img src="https://img.shields.io/badge/TwinCAT-3.1.4024.55-blue" alt="TwinCAT 3.1.4024.55"></a>
   <a href="https://github.com/Dalageo/TwinCat-VirtualElevator/blob/main/LICENSE" target="_blank">
@@ -58,21 +58,24 @@ This project was part of a master course assignment at [University West](https:/
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). It was chosen to prevent commercial use and to promote free access and open collaboration, ensuring any adaptations remain freely available to everyone.
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+<div align="center">
+  <br>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/66ee5a84-1749-44af-9be4-68365c3e62ce" width="170">
+  </a>
+</div>
 
 ## Citation
 
 ```bibtex
-@software{Dalageorgos_TwinCAT-VirtualElevator_2024,
-author = {Dalageorgos, Konstantinos},
-license = {CC-BY-NC-SA-4.0},
-month = jun,
-title = {{TwinCAT-VirtualElevator}},
-url = {https://github.com/Dalageo/TwinCAT-VirtualElevator},
-version = {1.0.0},
-year = {2024}
+@software{Dalageorgos_twincat-virtual-elevator_2024,
+  author = {Dalageorgos, Konstantinos},
+  title = {twincat-virtual-elevator},
+  publisher = {GitHub},
+  year = {2024},
+  month = {June},
+  version = {1.0.0},
+  url = {https://github.com/Dalageo/twincat-virtual-elevator},
+  license = {CC-BY-NC-SA-4.0},
+  note = {Source code repository},
 }
