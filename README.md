@@ -36,7 +36,7 @@
    
 2. **Clone the repository:**
    ```sh
-   git clone https://github.com/Dalageo/TwinCAT-VirtualElevator.git
+   git clone https://github.com/Dalageo/twincat-virtual-elevator.git
    
 3. **Navigate to the cloned directory and execute the 'TwinCAT Virtual Elevator.sln' solution file.**
 
